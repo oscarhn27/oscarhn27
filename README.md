@@ -1,4 +1,5 @@
-### Hey 👋🏽, I'm [Óscar!]
+### Hey 👋🏽, I'm Óscar!
+
 
 <a href="https://twitter.com/oscarhn27">
   <img align="left" alt="Óscar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,9 +16,11 @@
 <a href="https://www.instagram.com/oscarhn27">
   <img align="left" alt="Óscar's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</br>
+</br>
 
 - 🔭 I’m currently working on student.
-- 🌱 I’m currently learning node.js, Angular, CSS, React
+- 🌱 I’m currently learning node.js, Angular, CSS, React.
 - 📫 How to reach me: oscarhn1998@gmail.com
 <!--
 **oscarhn27/oscarhn27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
