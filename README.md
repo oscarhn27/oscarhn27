@@ -1,21 +1,11 @@
-### ¡Hola! 👋 Soy Óscar
+### ¡Hola! 👋 Soy Óscar 
 
+## Desarrollador Full Stack desde España 🇪🇸 <a href="https://www.linkedin.com/in/%C3%B3scar-hern%C3%A1ndez-navarro-7090a01ab/"><img align="left" alt="Óscar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/linkedin.svg"/></a><a href="https://www.instagram.com/oscarhn27"><img align="left" alt="Óscar's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/instagram.svg"/></a>
 
-<a href="https://twitter.com/oscarhn27">
-  <img align="left" alt="Óscar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/%C3%B3scar-hern%C3%A1ndez-navarro-7090a01ab/">
-  <img align="left" alt="Óscar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/oscarhn27">
-  <img align="left" alt="Óscar's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</br>
-</br>
-
-### Desarrollador Full Stack desde España 🇪🇸
 
 Me apasiona crear aplicaciones completas de principio a fin. Aunque tengo un cariño especial por el backend, me gusta tener el control total de mis proyectos y no ponerme etiquetas que me limiten.
+
+<br />
 
 ## 🚀 Tecnologías que uso
 
@@ -34,6 +24,13 @@ Me apasiona crear aplicaciones completas de principio a fin. Aunque tengo un car
 **Herramientas:**
 - Visual Studio Code
 - Git & GitHub
+- Postman
+
+**Databases**
+- MongoDB
+- Redis
+- MySQL
+- PostgreSQL
 
 ## 🔥 Proyecto destacado
 
